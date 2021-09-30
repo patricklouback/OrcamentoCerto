@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="view">
+        <item name="android:background">@drawable/container_view</item>
+    </style>
+
+    <style name="edit">
+        <item name="android:background">@drawable/container_edit</item>
+        <item name="android:textColorHint">@color/white</item>
+        <item name="android:layout_width">155dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="calcular">
+        <item name="android:background">@drawable/botao_calcular</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:text">Calcular</item>
+        <item name="android:layout_width">170dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="margem">
+        <item name="android:background">@drawable/botao_margem</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:text">Margem de Lucro</item>
+        <item name="android:layout_width">170dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="resultado">
+        <item name="android:background">@drawable/container_resultado</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">35sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

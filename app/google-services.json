@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251902801688",
+    "project_id": "orcamento-certo",
+    "storage_bucket": "orcamento-certo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251902801688:android:1a1017f24ed22d75c8506d",
+        "android_client_info": {
+          "package_name": "com.maricotalembrancinhas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251902801688-bn0aipon3dk7ak6ookgo48p44cjgv44g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYmwev1i404_xCvlxGMF9o5eJp4gDYnaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251902801688-bn0aipon3dk7ak6ookgo48p44cjgv44g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
